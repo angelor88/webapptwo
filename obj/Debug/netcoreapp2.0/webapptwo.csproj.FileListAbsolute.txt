@@ -1,0 +1,10 @@
+C:\Users\Angelo\Desktop\webapptwo\bin\Debug\netcoreapp2.0\webapptwo.deps.json
+C:\Users\Angelo\Desktop\webapptwo\bin\Debug\netcoreapp2.0\webapptwo.runtimeconfig.json
+C:\Users\Angelo\Desktop\webapptwo\bin\Debug\netcoreapp2.0\webapptwo.runtimeconfig.dev.json
+C:\Users\Angelo\Desktop\webapptwo\bin\Debug\netcoreapp2.0\webapptwo.dll
+C:\Users\Angelo\Desktop\webapptwo\bin\Debug\netcoreapp2.0\webapptwo.pdb
+C:\Users\Angelo\Desktop\webapptwo\obj\Debug\netcoreapp2.0\webapptwo.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\webapptwo\obj\Debug\netcoreapp2.0\webapptwo.AssemblyInfoInputs.cache
+C:\Users\Angelo\Desktop\webapptwo\obj\Debug\netcoreapp2.0\webapptwo.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\webapptwo\obj\Debug\netcoreapp2.0\webapptwo.dll
+C:\Users\Angelo\Desktop\webapptwo\obj\Debug\netcoreapp2.0\webapptwo.pdb
